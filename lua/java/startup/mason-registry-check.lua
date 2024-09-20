@@ -1,7 +1,7 @@
 local mason_source = require('mason-registry.sources')
 
 local M = {
-	JAVA_REG_ID = 'github:jaim3rojas/mason-registry',
+	JAVA_REG_ID = 'github:jaim3r0jas/mason-registry',
 }
 
 function M.is_valid()

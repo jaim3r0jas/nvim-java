@@ -17,7 +17,7 @@ return {
 			'williamboman/mason.nvim',
 			opts = {
 				registries = {
-					'github:jaim3rojas/mason-registry',
+					'github:jaim3r0jas/mason-registry',
 					'github:mason-org/mason-registry',
 				},
 			},
